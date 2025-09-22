@@ -2,13 +2,14 @@
 
 An elegant iOS weather application built with SwiftUI that provides comprehensive weather information, air quality data, and tourist attractions for any location worldwide.
 
-## 📱 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4252232-a1e6-4195-ab83-9cee1121ef00" width="22%" />
+  <img src="https://github.com/user-attachments/assets/ed6d7b78-8af5-4e75-a6d2-f6963263cc57" width="22%" />
+  <img src="https://github.com/user-attachments/assets/eed2c628-7e70-4622-9c33-b4529b07246e" width="22%" />
+  <img src="https://github.com/user-attachments/assets/2e2d80be-49bf-4a63-b7ac-e8be57e6ba2f" width="22%" />
+</p>
 
-*To add screenshots:*
-1. Run the app on a device or simulator
-2. Capture screenshots of main features
-3. Add them to a `screenshots/` folder in the repository
-4. Update this section with image links
+
 
 ## ✨ Features
 
@@ -201,19 +202,3 @@ WeatherAppCWK/
 ## 📄 License
 
 This project is created for educational purposes as part of a coursework assignment.
-
-## 👨‍💻 Author
-
-**Asel Inuke Hidallearachchi**
-- Created: December 2024 - January 2025
-- Course Work: iOS Development
-
-## 🙏 Acknowledgments
-
-- OpenWeatherMap for comprehensive weather API
-- Apple for SwiftUI and MapKit frameworks
-- iOS developer community for inspiration and best practices
-
----
-
-*For any questions or issues, please create an issue in the repository.*
