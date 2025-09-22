@@ -1,6 +1,6 @@
 # WeatherApp CWK - iOS Weather Application
 
-An elegant iOS weather application built with SwiftUI that provides comprehensive weather information, air quality data, and tourist attractions for any location worldwide.
+An iOS weather application built with SwiftUI that provides comprehensive weather information, air quality data, and tourist attractions for any location worldwide.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e2d80be-49bf-4a63-b7ac-e8be57e6ba2f" width="25%" />
